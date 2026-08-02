@@ -15,7 +15,7 @@ dataProject/
 ├── .venv/              # Python virtual environment
 ├── data/               # Input datasets
 ├── output/             # Generated files
-├── src                 # Main application
+├── src                 # code
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
 ```
