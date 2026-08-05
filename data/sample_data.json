@@ -1,0 +1,35 @@
+ [
+    {
+        "id": 101,
+        "name": "Alice Johnson",
+        "department": "Engineering",
+        "salary": 95000,
+        "skills": ["Python", "SQL", "Pandas"],
+        "location": {"city": "Austin", "state": "TX"}
+    },
+    {
+        "id": 102,
+        "name": "Bob Smith",
+        "department": "Marketing",
+        "salary": 72000,
+        "skills": ["SEO", "Content"],
+        "location": {"city": "Chicago", "state": "IL"}
+    },
+    {
+        "id": 103,
+        "name": "Charlie Lee",
+        "department": "Engineering",
+        "salary": 110000,
+        "skills": ["Java", "AWS", "Python"],
+        "location": {"city": "Austin", "state": "TX"}
+    },
+    {
+        "id": 104,
+        "name": "Diana Prince",
+        "department": "Design",
+        "salary": 85000,
+        "skills": ["Figma", "UI/UX"],
+        "location": {"city": "Seattle", "state": "WA"}
+    }
+]
+
