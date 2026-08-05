@@ -26,3 +26,4 @@ htmlcov/
 # IDE-specific (Optional but recommended)
 .vscode/
 .ieda/
+.idea/**
