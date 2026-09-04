@@ -3,6 +3,7 @@ import pandas as pd
 df = pd.read_json('../data/data.json')
 
 print(df.to_string())
+print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
 data = {
     "Duration": {
@@ -40,4 +41,7 @@ data = {
 }
 df = pd.DataFrame(data)
 print(df)
+print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 
+df = pd.DataFrame(data, index = ["day1", "day2", "day3", "day4", "day5"])
+print(df)
